@@ -49,6 +49,9 @@
     .number__item p:first-of-type{
         font-size: 50px;
     }
+    .plan__item {
+        padding: 30px 20px;
+    }
     .plan__item h3{
         font-size: 30px;
     }
